@@ -1,0 +1,177 @@
+
+@media screen and (max-width: 1199px){
+  .photo-text-padding h1{
+      padding-top: 50px;
+   }
+
+   .banner-content h1{
+    padding-top: 50px;
+   }
+   .banner{
+     max-width: 1199px;
+   }
+   .img-size{
+     max-width: 500px;
+   }
+   .about-text h3{
+    font-size: 30px;
+   }
+   .phone-illustation h1{
+      padding-top: 10px;
+   }
+   .count-sec h1{
+    padding-top: 0px;
+  }
+}
+
+
+@media screen and (max-width: 991px){
+  #home.navbar-brand img{
+    max-width: 180px;
+  }
+    .banner-content h1{
+    padding-top: 30px;
+    font-size: 50px;
+    line-height: normal;
+   }
+   .photo-text-padding h1{
+      padding-top: 10px;
+   }
+   .phone-illustation h1{
+      padding-top: 30px;
+      padding-left: 40px;
+   }
+   .phone-illustation-btn{
+    text-align: center;
+    padding-left: 0px;
+    }
+
+   .car-text{
+     padding-left: 30px;
+    }
+
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px){
+   
+   .phone-illustation h1{
+      padding-top: 10px;
+   }
+   .img-size{
+     max-width: 400px;
+   }
+   .about-text h3{
+    font-size: 25px;
+   }
+   
+}
+
+@media screen and (max-width: 767px){
+  #mynav {
+    position: absolute;
+    width: 100%;
+    padding: 0 25px;
+    top: 110px;
+    margin-top: 0px;
+    left: 0;
+    background-color: #ff5455c9;
+    transition: background-color 0.5s ease 0s;
+  }
+   .footer .add-padding{
+   	padding: 5px 0px;
+   }
+    .phone-illustation h1{
+      padding-top: 60px;
+      text-align: center;
+      font-size: 25px;
+      padding-left: 20px;
+   }
+  .phone-illustation-btn{
+        text-align: center;
+     }
+     .phone-illustation .btn1{
+        padding-right: 3px;
+     }
+   .img-size{
+     max-width: 280px;
+     padding-top: 60px;
+     /*padding-left: 0px;*/
+   }
+   .banner-content img{
+    max-width: 400px;
+    padding-top: 20px;
+   }
+   .banner-content h1{
+    padding-left: 170px;
+    padding-top: 20px;
+    }
+    .banner-content{
+     padding-top: 20px;
+    }
+    .logo img{
+      width: 300px;
+    }
+    .icon-ios-padding{
+    padding-left: 0px;
+  }
+  .about-text h3{
+    font-size: 20px;
+   }
+   .car-text{
+      padding-left: 10px;
+   }
+   .count-sec h1{
+    font-size: 40px;
+  }
+
+}
+
+@media screen and (max-width: 575px){
+  #mynav {
+    top: 77px;
+  }
+  #home.navbar-brand img{
+    max-width: 160px;
+  }
+
+   .banner-content img{
+    max-width: 300px;
+    padding-top: 20px;
+   }
+   .photo-text-padding h1{
+      padding-left: 60px;
+   } 
+   .photo-text-padding p{
+      padding-left: 60px;
+   }
+   .banner-content h1{
+    padding-left: 80px;
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 50px;
+    }
+    h1{
+      font-size: 30px;
+    }
+    .count-sec p{
+      padding-left: 0px;
+    }
+    .count-sec h1{
+      padding-left: 0px;
+    }
+    .phone-illustation-img{
+      max-width: 300px;
+      padding-top: 0px;
+    }
+    .phone-illustation h1{
+      font-size: 25px;
+      padding-left: 0px;
+    }
+    .banner{
+      max-height: 700px;
+    }
+    
+}
+
+
